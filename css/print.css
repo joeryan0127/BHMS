@@ -1,0 +1,14 @@
+@page{
+    size:A4;
+     /* auto is the initial value */
+    margin: 0;
+}
+
+#print{
+    display:none;
+    visibility:none;
+}
+#print1{
+    display:none;
+    visibility:none;
+}

@@ -1,0 +1,73 @@
+img.Pic{
+margin:10%;
+margin-left:40%;
+margin-top:	7%;
+width:133px;
+height:auto;
+}
+
+.side{
+
+	background-color: cornflowerblue;
+	margin-left: 150px;
+	width: 100px;
+    height: 29px;
+}
+.in{
+float:left;
+width:29%;
+margin-top:5%;
+margin-left: 2%;
+}
+.im{
+	float:left;
+width:35%;
+margin-top:3%;
+margin-left: 2%;
+line-height: 5px;
+}
+hr{
+	width:72%;
+	
+	
+	height:3px;
+	border-width:0;
+	margin-left: 17%;
+	color:gray;
+	background-color:black;
+}
+img.dick{
+margin:10%;
+margin-right:60%;
+margin-top: 14%;
+width:173px;
+height:auto;
+}
+.love{
+margin-top:10px;
+}
+.ip{
+	float:right;
+	width:31%;
+}
+.am{
+margin-left:70px;
+}
+.pm{
+margin-top: 7%;
+margin-left: 17%;
+line-height:5px;
+}
+.op{
+text-decoration:underline;
+	float:right;
+	width:38%;
+}
+.pb{
+margin-left:65%;
+}
+.mother{
+max-width:1060px;
+margin-left:-5%;
+}
+

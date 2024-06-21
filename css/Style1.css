@@ -1,0 +1,83 @@
+img.Pic{
+    margin:10%;
+    margin-left:40%;
+    margin-top:	7%;
+    width:133px;
+    height:auto;
+    
+    }
+  
+    .A3{
+        float:left;
+        width:29%;
+        margin-top:5%;
+        margin-left: 2%;
+    }
+    .A4{
+        float:left;
+        width:35%;
+        margin-top:3%;
+        margin-left: 2%;
+        line-height: 5px;
+    }
+    hr{
+        width:72%;
+	
+	
+        height:3px;
+        border-width:0;
+        margin-left: 17%;
+        color:gray;
+        background-color:black;
+    }
+    img.dick{
+        margin:10%;
+        margin-right:60%;
+        margin-top: 14%;
+        width:173px;
+        height:auto;
+        
+    }
+    .love{
+    margin-top:10px;
+    }
+    .am{
+    margin-left:70px;
+    }
+    .A1{
+    margin-top: 7%;
+    margin-left: 15%;
+    line-height:5px;
+    }
+    .op{
+    text-decoration:underline;
+        float:right;
+        width:38%;
+    }
+    .PB{
+    margin-left:65%;
+    }
+    .A2{
+        max-width:1060px;
+        margin-left:-5%;
+        
+    }
+    .A5{
+        float:left;
+    width:40%;
+    margin-top:5%;
+    line-height: 5px;
+    margin-left: 5%;
+    margin-bottom: 3%;
+    }
+    .side{
+
+        background-color: cornflowerblue;
+        margin-left: 150px;
+        width: 100px;
+        height: 29px;
+    }
+    .i{
+width:105%;
+
+    }

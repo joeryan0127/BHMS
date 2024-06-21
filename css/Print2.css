@@ -1,0 +1,19 @@
+@page{
+    size:8.5″ x 11″;
+     /* auto is the initial value */
+    margin: 0;
+}
+
+#print2{
+    display:none;
+    visibility:none;
+}
+#accordionSidebar{
+    display:none;
+    visibility:none;
+
+}
+#first{
+    display:none;
+    visibility:none;
+}
